@@ -14,3 +14,6 @@ spring:
           searchPaths: config
   application:
     name: config-server
+management:
+  security:
+    enabled: false
