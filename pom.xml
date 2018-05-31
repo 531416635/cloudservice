@@ -17,6 +17,7 @@
         <module>serviceribbon</module>
         <module>servicefeign</module>
         <module>servicezuul</module>
+        <module>springbootstarterrocketmq</module>
     </modules>
 
     <parent>

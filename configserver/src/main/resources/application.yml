@@ -14,6 +14,12 @@ spring:
           searchPaths: config
   application:
     name: config-server
+  rabbitmq:
+         host: 101.89.191.244
+         port: 5672
+         username: abc
+         password: abc
+         virtual-host: /
 management:
   security:
     enabled: false

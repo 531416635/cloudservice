@@ -26,6 +26,7 @@
       <module name="servicefeign" target="1.8" />
       <module name="serviceribbon" target="1.8" />
       <module name="servicezuul" target="1.8" />
+      <module name="springbootstarterrocketmq" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

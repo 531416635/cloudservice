@@ -8,8 +8,14 @@ spring:
     name: config-client
   cloud:
     config:
-      label: master
-      profile: dev
+     label: master
+     profile: dev
+  rabbitmq:
+     host: 101.89.191.244
+     port: 5672
+     username: abc
+     password: abc
+     virtual-host: /
 #      uri: http://localhost:8888/
   discovery:
     enabled: true
